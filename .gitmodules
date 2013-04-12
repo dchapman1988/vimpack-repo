@@ -18,7 +18,7 @@
 	url = https://github.com/vim-scripts/rails.vim
 [submodule "scripts/color_scheme/railscasts"]
 	path = scripts/color_scheme/railscasts
-	url = https://github.com/dchapman1988/railscasts.git
+	url = https://github.com/dchapman1988/railscasts
 [submodule "scripts/utility/Syntastic"]
 	path = scripts/utility/Syntastic
 	url = https://github.com/vim-scripts/Syntastic
